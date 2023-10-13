@@ -1,4 +1,5 @@
----
+---fix my name as followers can find me in jerardo@jerardo.com
+
 title: Web technology for developers
 slug: Web
 page-type: landing-page
